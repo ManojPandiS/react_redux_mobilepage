@@ -3,7 +3,8 @@
 2. npm i redux
 3. npm i react-redux
 4. npm i redux-thunk
-5. npm i axios
+5. npm i redux-logger
+6. npm i axios
 
 # Getting Started with Create React App
 
