@@ -1,4 +1,4 @@
-# Instalation flow
+# Installation flow
 1. npm i
 2. npm i redux
 3. npm i react-redux
