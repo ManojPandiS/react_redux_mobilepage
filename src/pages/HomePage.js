@@ -52,11 +52,5 @@ const mapDispatchToProps = {
     fetchData : feachUser,
     deleteUser : deleteUser
 }
-// const mapDispatchToProps = ( dispatch ) => {
-//     return {
-//         fetchData : feachUser,
-//         deleteUser : deleteUser
-//     }
-// }
 
 export default connect(mapStateToProps, mapDispatchToProps)(HomePage)

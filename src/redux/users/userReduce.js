@@ -8,7 +8,6 @@ const initialState = {
 }
 
 const userReducer = ( state = initialState, action ) => {
-    debugger;
     switch( action.type ) {
         case FEACH_USER_REQUEST : return {
             ...state,

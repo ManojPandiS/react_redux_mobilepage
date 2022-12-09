@@ -29,7 +29,6 @@ export const deleteUser = index => {
 }
 
 export const feachUser = () => {
-    debugger;
     return function( dispatch, getState ) {
         const users = getState().users;
 
